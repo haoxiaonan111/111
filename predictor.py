@@ -2,7 +2,7 @@
 import os
 
 # 设置工作路径
-os.chdir("rD:\博士课题\纵向数据2")
+os.chdir(r"D:\博士课题\纵向数据2")
 
 # 获取并打印当前工作路径
 current_path = os.getcwd()
